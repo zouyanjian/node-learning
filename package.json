@@ -1,0 +1,20 @@
+{
+  "name": "node-learning",
+  "version": "0.0.1",
+  "description": "learning node develop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zouyanjian110@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.3.1",
+    "errorhandler": "^1.0.2",
+    "express": "^4.4.2",
+    "morgan": "^1.1.1",
+    "mysql": "^2.3.2",
+    "serve-favicon": "^2.0.1",
+    "underscore": "^1.6.0"
+  }
+}

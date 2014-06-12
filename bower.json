@@ -1,0 +1,26 @@
+{
+  "name": "node-learning",
+  "version": "0.0.1",
+  "authors": [
+    "zouyanjian <zouyanjian110@gmail.com>"
+  ],
+  "description": "xxx",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "toastr": "~2.0.3",
+    "angular": "~1.2.17",
+    "angular-foundation": "~0.2.2",
+    "foundation": "~5.2.3"
+  }
+}
